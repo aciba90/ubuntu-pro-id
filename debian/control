@@ -1,0 +1,20 @@
+Source: ubuntu-pro-id
+Section: unknown
+Priority: optional
+Maintainer: Alberto Contreras <alberto.contreras@canonical.com>
+Rules-Requires-Root: no
+Build-Depends:
+ debhelper-compat (= 13),
+Standards-Version: 4.6.2
+Homepage: <insert the upstream URL, if relevant>
+#Vcs-Browser: https://salsa.debian.org/debian/ubuntu-pro-id
+#Vcs-Git: https://salsa.debian.org/debian/ubuntu-pro-id.git
+
+Package: ubuntu-pro-id
+Architecture: all
+Multi-Arch: foreign
+Depends:
+ ${shlibs:Depends},
+ ${misc:Depends},
+Description: <insert up to 60 chars description>
+ <Insert long description, indented with spaces.>

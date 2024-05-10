@@ -1,0 +1,5 @@
+ubuntu-pro-id (0-1) UNRELEASED; urgency=medium
+
+  * Initial release. (Closes: #nnnn)  <nnnn is the bug number of your ITP>
+
+ -- Alberto Contreras <alberto.contreras@canonical.com>  Wed, 08 May 2024 15:45:26 +0200
